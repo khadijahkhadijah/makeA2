@@ -1,6 +1,6 @@
 body {
   background: #fff;
-  font-family: "Roboto", arial, sans-serif;
+  font-family: Helvetica, arial, sans-serif;
   font-weight: 200;
   font-size: 16px;
   line-height: 1.8;
@@ -25,13 +25,13 @@ a {
 
 h1, h2, h3, h4, h5 {
   color: #000;
-  font-family: "Playfair Display", times, serif; }
+  font-family: Helvetica, times, serif; }
 
 .font-family-serif {
-  font-family: "Playfair Display", times, serif; }
+  font-family: Helvetica, times, serif; }
 
 .font-family-sans-serif {
-  font-family: "Roboto", arial, sans-serif; }
+  font-family: Helvetica, arial, sans-serif; }
 
 .bg-light {
   background: #f2f4fb !important; }
