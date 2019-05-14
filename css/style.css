@@ -975,7 +975,7 @@ textarea.form-control {
     .block-2 .author .position {
       display: block;
       font-size: 12px; }
-  @media (max-width: 991.98px) {
+  @media (max-width: 320px) {
     .block-2 .back {
       -webkit-transform: rotateY(0deg);
       -moz-transform: rotateY(0deg);
